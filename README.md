@@ -1,5 +1,7 @@
 # Prazer lucas eduardo
 Iniciante em programação
-gmais; lucas.baldin@escola.pr.gov.br
+Aluno do Alura - programação
+gmail; lucas.baldin@escola.pr.gov.br
+
 
 
